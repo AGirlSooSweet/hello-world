@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Antartica</title>
+ 
+<link rel="stylesheet" href="level4b.css" type="text/css">
+</head>
+<body>
+<h1>Antartica</h1>
+<table style="text-align: left; width: 100%;" border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td style="width: 20%;"><a href="index.html">Home</a>
+<br>
+<a href="Mexico.html">Mexico</a> <br>
+<a href="France.html">France</a></td>
+<td style="width: 80%;"><img style="width: 160px; height: 120px; float: right;" src="Anartica_Small.jpg" alt="Anartica_Small.jpg">
+<img style="width: 160px; height: 120px; float: left;" src="AntarcicaPengins.jpg" alt="AntarcicaPengins.jpg"><br>
+Our
+first journey is a cold place known as Antartica. This cold and frozen
+place resides at the botom of the world. I love it because it is soo
+cold! and I also love it because of what lives there: Penguins!
+&nbsp; </td>
+</tr>
+</tbody>
+</table>
+<br>
+</body></html>
